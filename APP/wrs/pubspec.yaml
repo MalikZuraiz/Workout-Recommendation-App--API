@@ -1,0 +1,48 @@
+name: wrs
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^3.8.5
+  lottie: ^2.7.0
+  http: 1.1.0
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  provider: ^6.1.1 
+  google_fonts: ^6.1.0
+  
+  smooth_page_indicator: ^1.1.0
+  google_nav_bar: ^5.0.3
+  line_icons: ^2.0.3
+  ionicons: ^0.2.2
+  another_flushbar: ^1.12.30
+  fluttertoast: ^8.2.4
+ 
+  google_sign_in: ^6.1.6
+  toggle_switch: ^2.1.0 
+  firebase_database: ^10.3.6
+  image_picker: ^1.0.4
+  firebase_storage: ^11.5.3
+  flutter_vector_icons: ^2.0.0
+  carousel_slider: ^4.2.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+  - animations/api.json
+  - lib/images/

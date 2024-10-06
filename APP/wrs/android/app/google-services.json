@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690527389976",
+    "project_id": "wrmflutter",
+    "storage_bucket": "wrmflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690527389976:android:c1f8322dd9e5033d38366d",
+        "android_client_info": {
+          "package_name": "com.example.wrs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwyMXNtouni6FRGLvn_dDO50JyVJ_EPQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
