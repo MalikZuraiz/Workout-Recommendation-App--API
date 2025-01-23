@@ -42,11 +42,14 @@ A sophisticated recommendation system leveraging NLP and machine learning to gen
 ## 🖼️ Screenshots
 <table>
   <tr>
-    <td>
-      <img src="/APP/wrs/assets/img/WRM1 (2).png" alt="Home Screen" width="300">
+     <td>
+      <img src="APP/wrs/assets/img /6f1bf8b4-4bd2-4008-9ebf-0c588c0a8166.jpg" alt="Home Screen" width="300">
     </td>
     <td>
-      <img src="/APP/wrs/assets/img/WRM2 (2).png" alt="Recommendation Screen" width="300">
+      <img src="APP/wrs/assets/img /746b417a-a984-4a51-860e-0e08be85c8b9.jpg" alt="Recommendations Screen" width="300">
+    </td>
+    <td>
+      <img src="/APP/wrs/assets/img/WRM2 (2).png" alt="Single Recommendation Detail Screen" width="300">
     </td>
   </tr>
 </table>
